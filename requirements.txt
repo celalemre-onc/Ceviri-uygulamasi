@@ -1,0 +1,4 @@
+argostranslate
+polib
+flask
+requests
